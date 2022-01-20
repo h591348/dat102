@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BSTre/BSTre.iml" filepath="$PROJECT_DIR$/BSTre/BSTre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bag/Bag/Bag.iml" filepath="$PROJECT_DIR$/Bag/Bag/Bag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bag2/Bag2.iml" filepath="$PROJECT_DIR$/Bag2/Bag2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BalanseringU/BalanseringU.iml" filepath="$PROJECT_DIR$/BalanseringU/BalanseringU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DobbelKjedetOrdnetListeMidtPekerFyllUt/DobbelKjedetOrdnetListeMidtPekerFyllUt.iml" filepath="$PROJECT_DIR$/DobbelKjedetOrdnetListeMidtPekerFyllUt/DobbelKjedetOrdnetListeMidtPekerFyllUt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumArbeidsdag/EnumArbeidsdag.iml" filepath="$PROJECT_DIR$/EnumArbeidsdag/EnumArbeidsdag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumSjanger/EnumSjanger.iml" filepath="$PROJECT_DIR$/EnumSjanger/EnumSjanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generisk/Generisk.iml" filepath="$PROJECT_DIR$/Generisk/Generisk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HaugU/HaugU.iml" filepath="$PROJECT_DIR$/HaugU/HaugU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kalkulator/Kalkulator.iml" filepath="$PROJECT_DIR$/Kalkulator/Kalkulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Karakter/Karakter.iml" filepath="$PROJECT_DIR$/Karakter/Karakter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KjedetStabelMedUnntak/KjedetStabelMedUnntak.iml" filepath="$PROJECT_DIR$/KjedetStabelMedUnntak/KjedetStabelMedUnntak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabyrintMedRekursjon/LabyrintMedRekursjon.iml" filepath="$PROJECT_DIR$/LabyrintMedRekursjon/LabyrintMedRekursjon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabyrintUtenRekursjon/LabyrintUtenRekursjon.iml" filepath="$PROJECT_DIR$/LabyrintUtenRekursjon/LabyrintUtenRekursjon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListeOrdnetU/ListeOrdnetU.iml" filepath="$PROJECT_DIR$/ListeOrdnetU/ListeOrdnetU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MengdeU/MengdeU.iml" filepath="$PROJECT_DIR$/MengdeU/MengdeU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimuleringU/SimuleringU.iml" filepath="$PROJECT_DIR$/SimuleringU/SimuleringU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SorteringOgSoekingFyllUt/SorteringOgSoekingFyllUt.iml" filepath="$PROJECT_DIR$/SorteringOgSoekingFyllUt/SorteringOgSoekingFyllUt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorteringsmetoder/Sorteringsmetoder.iml" filepath="$PROJECT_DIR$/Sorteringsmetoder/Sorteringsmetoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stabel/Stabel.iml" filepath="$PROJECT_DIR$/Stabel/Stabel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabellStabelMedUnntak/TabellStabelMedUnntak.iml" filepath="$PROJECT_DIR$/TabellStabelMedUnntak/TabellStabelMedUnntak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabellStabelUtenUnntak/TabellStabelUtenUnntak.iml" filepath="$PROJECT_DIR$/TabellStabelUtenUnntak/TabellStabelUtenUnntak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TekstFil/TekstFil.iml" filepath="$PROJECT_DIR$/TekstFil/TekstFil.iml" />
+    </modules>
+  </component>
+</project>
